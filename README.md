@@ -80,18 +80,22 @@ This codebase is continuously scanned with [SonarQube](https://www.sonarqube.org
 | Vulnerabilities | 0 |
 | Code Smells | 0 |
 | Security Hotspots | 0 |
+| Test Coverage | 72.1% |
 | Reliability Rating | A |
 | Security Rating | A |
 | Maintainability Rating | A |
-| Duplication | 1.55% |
+
+**SonarQube Dashboard — Quality Gate: Passed, 72.1% Coverage**
+
+![SonarQube Dashboard](examples/sonarqube_dashboard.png)
 
 **SonarQube Issues — "No Issues. Hooray!"**
 
 ![SonarQube Issues](examples/sonarqube_issues.png)
 
-**SonarQube Dashboard — New Issues: 0, Duplication: 1.55%**
+**Security Hotspots — "There are no Security Hotspots to review."**
 
-![SonarQube Dashboard](examples/sonarqube_dashboard.png)
+![SonarQube Security Hotspots](examples/sonarqube_security.png)
 
 ## Pricing (Google API)
 
