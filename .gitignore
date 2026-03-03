@@ -1,0 +1,35 @@
+# ── Book (private — sold separately, DO NOT commit) ──
+book/
+
+# ── SonarQube (contains auth token) ──
+sonar-project.properties
+.scannerwork/
+
+# ── Claude Code session data ──
+.claude/
+
+# ── API keys and secrets ──
+.env
+*.env
+.env.*
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── OS artifacts ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editors ──
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
